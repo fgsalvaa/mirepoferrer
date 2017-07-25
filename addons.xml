@@ -48,8 +48,8 @@
 <addon id="repository.estest" name="estest repository" version="1.0" provider-name="bonnyy">
 	<extension point="xbmc.addon.repository" name="estest repository">
 		<info compressed="false">https://raw.githubusercontent.com/fgsalvaa/mirepoferrer/master/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/fgsalva/mirepoferrer/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/fgsalva/mirepoferrer/master/</datadir>
+		<checksum>https://raw.githubusercontent.com/fgsalvaa/mirepoferrer/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/fgsalvaa/mirepoferrer/master/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Mi repositorio</summary>
