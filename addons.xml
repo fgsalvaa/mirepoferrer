@@ -106,7 +106,8 @@
     </description>
     <platform>all</platform>
   </extension>
-</addon>	
+</addon>
+	
 <addon id="mirepoferrer" name="mirepoferrer" version="1.0" provider-name="fgsalvaa">
 	<extension point="xbmc.addon.repository" name="mirepoferrer">
 		<info compressed="false">https://raw.githubusercontent.com/fgsalvaa/mirepoferrer/master/addons.xml</info>
