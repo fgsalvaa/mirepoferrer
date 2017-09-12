@@ -1,5 +1,0 @@
-[B]Version 0.0.1[/B]
-dont show error when regex contains notplayable --bug fix
-
-
-
