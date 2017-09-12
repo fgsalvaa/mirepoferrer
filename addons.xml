@@ -45,20 +45,6 @@
   </extension>
 </addon>
 
-<addon id="mirepoferrer" name="mirepoferrer" version="1.0" provider-name="fgsalvaa">
-	<extension point="xbmc.addon.repository" name="mirepoferrer">
-		<info compressed="false">https://raw.githubusercontent.com/fgsalvaa/mirepoferrer/master/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/fgsalvaa/mirepoferrer/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/fgsalvaa/mirepoferrer/master/</datadir>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary>Mi repositorio ferrer</summary>
-		<description>Mi repositorio ferrer</description>
-		<disclaimer></disclaimer>
-		<platform>all</platform>
-	</extension>
-</addon>
-	
 <addon id="plugin.video.supermospytv"
        name="supermospytv"
        version="0.0.1"
@@ -89,5 +75,18 @@
     <platform>all</platform>
   </extension>
 </addon>
-
+	
+<addon id="mirepoferrer" name="mirepoferrer" version="1.0" provider-name="fgsalvaa">
+	<extension point="xbmc.addon.repository" name="mirepoferrer">
+		<info compressed="false">https://raw.githubusercontent.com/fgsalvaa/mirepoferrer/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/fgsalvaa/mirepoferrer/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/fgsalvaa/mirepoferrer/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Mi repositorio ferrer</summary>
+		<description>Mi repositorio ferrer</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
 </addons>
