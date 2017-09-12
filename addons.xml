@@ -45,8 +45,8 @@
   </extension>
 </addon>
 
-<addon id="repository.estest" name="estest repository" version="1.0" provider-name="bonnyy">
-	<extension point="xbmc.addon.repository" name="estest repository">
+<addon id="repository.repoferrer" name="mirepoferrer" version="1.0" provider-name="fsalvaa">
+	<extension point="xbmc.addon.repository" name="mi repoferrer">
 		<info compressed="false">https://raw.githubusercontent.com/fgsalvaa/mirepoferrer/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/fgsalvaa/mirepoferrer/master/addons.xml.md5</checksum>
 		<datadir zip="true">https://raw.githubusercontent.com/fgsalvaa/mirepoferrer/master/</datadir>
