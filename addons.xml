@@ -59,7 +59,7 @@
 	</extension>
 </addon>
 	
-	<addon id="plugin.video.supermospytv"
+<addon id="plugin.video.supermospytv"
        name="supermospytv"
        version="0.0.1"
        provider-name="supermospytv">
@@ -82,7 +82,6 @@
     <provides>video</provides>
   </extension>
 
-
   <extension point="xbmc.addon.metadata">
     <summary>supermospytv  - Television - Peliculas - Series</summary>
     <description>No se dejen engañar este addon es gratuito      
@@ -90,4 +89,5 @@
     <platform>all</platform>
   </extension>
 </addon>
+
 </addons>
